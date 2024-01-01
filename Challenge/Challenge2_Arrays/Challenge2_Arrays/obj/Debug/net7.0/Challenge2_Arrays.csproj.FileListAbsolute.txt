@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\bin\Debug\net7.0\Challenge2_Arrays.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\bin\Debug\net7.0\Challenge2_Arrays.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\bin\Debug\net7.0\Challenge2_Arrays.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\bin\Debug\net7.0\Challenge2_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\bin\Debug\net7.0\Challenge2_Arrays.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\refint\Challenge2_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\Challenge2_Arrays.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Challenge2_Arrays\Challenge2_Arrays\obj\Debug\net7.0\ref\Challenge2_Arrays.dll

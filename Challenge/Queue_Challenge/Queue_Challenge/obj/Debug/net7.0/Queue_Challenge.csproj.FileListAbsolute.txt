@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\bin\Debug\net7.0\Queue_Challenge.exe
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\bin\Debug\net7.0\Queue_Challenge.deps.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\bin\Debug\net7.0\Queue_Challenge.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\bin\Debug\net7.0\Queue_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\bin\Debug\net7.0\Queue_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\refint\Queue_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\Queue_Challenge.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Queue_Challenge\Queue_Challenge\obj\Debug\net7.0\ref\Queue_Challenge.dll

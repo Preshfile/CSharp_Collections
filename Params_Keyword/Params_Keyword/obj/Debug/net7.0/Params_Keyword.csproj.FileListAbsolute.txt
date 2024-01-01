@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\bin\Debug\net7.0\Params_Keyword.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\bin\Debug\net7.0\Params_Keyword.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\bin\Debug\net7.0\Params_Keyword.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\bin\Debug\net7.0\Params_Keyword.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\bin\Debug\net7.0\Params_Keyword.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\refint\Params_Keyword.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\Params_Keyword.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Params_Keyword\Params_Keyword\obj\Debug\net7.0\ref\Params_Keyword.dll

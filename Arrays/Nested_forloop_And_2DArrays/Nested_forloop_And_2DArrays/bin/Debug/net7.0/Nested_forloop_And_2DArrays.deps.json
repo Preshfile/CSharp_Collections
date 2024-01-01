@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Nested_forloop_And_2DArrays/1.0.0": {
+        "runtime": {
+          "Nested_forloop_And_2DArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nested_forloop_And_2DArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\bin\Debug\net7.0\Foreach_Loops.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\bin\Debug\net7.0\Foreach_Loops.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\bin\Debug\net7.0\Foreach_Loops.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\bin\Debug\net7.0\Foreach_Loops.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\bin\Debug\net7.0\Foreach_Loops.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\refint\Foreach_Loops.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\Foreach_Loops.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Foreach_Loops\Foreach_Loops\obj\Debug\net7.0\ref\Foreach_Loops.dll

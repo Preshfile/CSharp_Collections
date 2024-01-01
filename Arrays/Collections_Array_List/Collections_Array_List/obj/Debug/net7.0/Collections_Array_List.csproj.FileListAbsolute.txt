@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\bin\Debug\net7.0\Collections_Array_List.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\bin\Debug\net7.0\Collections_Array_List.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\bin\Debug\net7.0\Collections_Array_List.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\bin\Debug\net7.0\Collections_Array_List.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\bin\Debug\net7.0\Collections_Array_List.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\refint\Collections_Array_List.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\Collections_Array_List.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_Array_List\Collections_Array_List\obj\Debug\net7.0\ref\Collections_Array_List.dll

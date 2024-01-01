@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Foreach_Loops/1.0.0": {
+        "runtime": {
+          "Foreach_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foreach_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

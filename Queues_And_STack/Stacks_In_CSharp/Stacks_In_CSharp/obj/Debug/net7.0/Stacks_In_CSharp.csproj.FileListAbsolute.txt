@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\bin\Debug\net7.0\Stacks_In_CSharp.exe
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\bin\Debug\net7.0\Stacks_In_CSharp.deps.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\bin\Debug\net7.0\Stacks_In_CSharp.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\bin\Debug\net7.0\Stacks_In_CSharp.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\bin\Debug\net7.0\Stacks_In_CSharp.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\refint\Stacks_In_CSharp.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\Stacks_In_CSharp.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\Stacks_In_CSharp\Stacks_In_CSharp\obj\Debug\net7.0\ref\Stacks_In_CSharp.dll

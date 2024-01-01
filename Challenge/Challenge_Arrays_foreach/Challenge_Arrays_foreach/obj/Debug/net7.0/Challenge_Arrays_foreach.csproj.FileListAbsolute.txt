@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\bin\Debug\net7.0\Challenge_Arrays_foreach.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\bin\Debug\net7.0\Challenge_Arrays_foreach.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\bin\Debug\net7.0\Challenge_Arrays_foreach.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\bin\Debug\net7.0\Challenge_Arrays_foreach.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\bin\Debug\net7.0\Challenge_Arrays_foreach.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\refint\Challenge_Arrays_foreach.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\Challenge_Arrays_foreach.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\OOP_ASSESSMENT\Challenge_Arrays_foreach\Challenge_Arrays_foreach\obj\Debug\net7.0\ref\Challenge_Arrays_foreach.dll

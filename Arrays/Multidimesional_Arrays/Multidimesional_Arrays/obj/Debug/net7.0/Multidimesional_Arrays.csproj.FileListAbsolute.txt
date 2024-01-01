@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\bin\Debug\net7.0\Multidimesional_Arrays.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\bin\Debug\net7.0\Multidimesional_Arrays.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\bin\Debug\net7.0\Multidimesional_Arrays.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\bin\Debug\net7.0\Multidimesional_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\bin\Debug\net7.0\Multidimesional_Arrays.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\refint\Multidimesional_Arrays.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\Multidimesional_Arrays.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\Collections_In_CSharp\Multidimesional_Arrays\Multidimesional_Arrays\obj\Debug\net7.0\ref\Multidimesional_Arrays.dll

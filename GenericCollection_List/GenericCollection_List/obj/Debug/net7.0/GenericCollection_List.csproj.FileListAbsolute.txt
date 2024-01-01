@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\bin\Debug\net7.0\GenericCollection_List.exe
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\bin\Debug\net7.0\GenericCollection_List.deps.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\bin\Debug\net7.0\GenericCollection_List.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\bin\Debug\net7.0\GenericCollection_List.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\bin\Debug\net7.0\GenericCollection_List.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\refint\GenericCollection_List.dll
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.pdb
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\GenericCollection_List.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\Collections_In_CSharp\GenericCollection_List\GenericCollection_List\obj\Debug\net7.0\ref\GenericCollection_List.dll
